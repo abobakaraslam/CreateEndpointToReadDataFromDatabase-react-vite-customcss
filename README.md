@@ -3,7 +3,7 @@
 Please visit below link for complete detail about creation of this application
 
 ```
-https://edu2skill.wordpress.com/course/react-with-vite-custom-css/getting-data-from-database-and-display-on-users-application-react-vite-customcss/
+https://edu2skill.wordpress.com/course/react-with-vite-custom-css/read-operation-from-frontend-application-react-vite-customcss/
 ```
 
 <br />
@@ -49,3 +49,4 @@ c. when the project will be executed successfully, then you can run below URL an
 ```
 http://localhost:5000/user/all-user
 ```
+
